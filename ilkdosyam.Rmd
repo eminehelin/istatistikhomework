@@ -1,0 +1,11 @@
+---
+title: "Untitled"
+author: "Emine Helin Kart"
+output: html_document
+---
+
+```{r}
+8 + 2
+```
+
+

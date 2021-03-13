@@ -1,0 +1,58 @@
+---
+title: "istatistikhomework"
+author: "Emine Helin Kart 17080218"
+output: html_document
+---
+
+
+---
+title: "Ödev 1 - Son Teslim Tarihi: 13/03/2021 Saat: 18:00"
+author: "Emine Helin Kart 17080218"
+---
+
+```{r global_options, include=FALSE}
+library(knitr)
+library(ggplot2)
+opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
+```
+
+**Soru 1: (10 Puan)** Markdown kullanarak bir kelimesi kalın olan bir cümle yazınız.
+
+İstatistik (**İstatistik**) ödevinin son teslim tarihi 13 Mart.
+
+**Soru 2: (10 Puan)** Markdown kullanarak bir kelimesi italik olan bir cümle yazınız.
+
+Telegram (_Telegram_) grubuna üye olmayı unutmayın.
+
+**Soru 3: (10 Puan)** Markdown kullanarak bir kelimesi kalın italik olan bir cümle yazınız.
+
+Ders saatlerini lütfen (**_lütfen_**) karıştırmayın.
+ 
+**Soru 4: (10 Puan)** Markdown kullanarak 3 elemanlı bir sırasız liste yazınız.
+
+*İstatistik
+*Genel Muhasebe
+*İdare Hukuku
+
+**Soru 5: (10 Puan)** Markdown kullanarak 3 elemanlı bir sıralı liste yazınız.
+
+1.Vize
+2.Final
+3.Bütünleme
+
+**Soru 6: (10 Puan)** Markdown kullanarak istediğiniz bir websayfasına link veriniz.
+
+([RStudio](https://rstudio.com/)) uygulamasını burdan indirebilirsiniz.
+
+**Soru 7: (10 Puan)** Markdown kullanarak bir komik bir kedi fotoğrafı ekleyiniz.
+(**En komik fotoğrafı ekleyen kişiye 5 Puan Bonus!**)
+
+![Inflatocat](https://octodex.github.com/images/inflatocat.png)
+
+**Soru 8: (15 Puan)** RMarkdown kullanarak bir kod bloğu ekleyiniz ve içerisinde basit bir matematik işlemi yapınız.
+
+file:///C:/Users/HP/Desktop/istatistik%20%C3%B6dev/ilkdosyam.html
+
+**Soru 9: (15 Puan)** $LaTeX$ kullanarak bir blok denklem yazınız
+
+$$U_2 – U_1 = Q + W$$
